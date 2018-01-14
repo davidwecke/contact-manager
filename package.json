@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davidwecke/contact-manager/issues"
   },
-  "homepage": "https://github.com/davidwecke/contact-manager#readme"
+  "homepage": "https://github.com/davidwecke/contact-manager#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
